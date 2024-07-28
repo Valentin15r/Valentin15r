@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/avatars/1085099718885003434/f3becabe1538951a357e57d4ab50b33b.png?size=512"  />
 
 ###
 
