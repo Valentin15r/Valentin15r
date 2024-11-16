@@ -3,13 +3,6 @@
 ###
 
 
-
-###
-
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/1085099718885003434/f3becabe1538951a357e57d4ab50b33b.png?size=512"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
